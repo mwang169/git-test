@@ -1,6 +1,7 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+*.DS_Store
+bin
+target
+src/main/webapp/META-INF
+.idea
+*.iml
+*.log
